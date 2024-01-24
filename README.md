@@ -1,4 +1,4 @@
-<h1>Hi, I'm William! <br/><a href="https://github.com/wmarchand">NOC Analyst</a> | <a href="https://linkedin.com/in/william-marchand-b6b89019a">CompTIA Security+ Certified</a> | <a href="https://linkedin.com/in/william-marchand-b6b89019a">Actively Seeking Opportunities in Cybersecurity</a></h1>
+<h1>Hi, I'm William! <br/><a href="https://github.com/wmarchand">NOC Analyst</a> | <a href="https://linkedin.com/in/will-marchand">CompTIA Security+ Certified</a> | <a href="https://linkedin.com/in/will-marchand">Actively Seeking Opportunities in Cybersecurity</a></h1>
 
 <p>Highly motivated and detail-oriented individual seeking a position as a SOC Analyst. Equipped with a solid foundation in cybersecurity principles and a strong passion for protecting organizations from security threats. Committed to leveraging strong analytical skills and a continuous learning mindset to contribute to the detection, response, and mitigation of security incidents in a dynamic Security Operations Center environment.</p>
 
