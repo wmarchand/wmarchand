@@ -4,6 +4,8 @@
 
 - <b>Bash Scripts</b>
   - [Create a Resource Group in Azure](https://github.com/wmarchand/create_resource_group)
+- <b>Virtual Machines</b>
+  - [My first Virtual Machine in Azure](https://github.com/wmarchand/create_resource_group)
  
  
  <!-- 
