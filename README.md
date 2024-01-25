@@ -5,7 +5,7 @@
 - <b>Bash Scripts</b>
   - [Create a Resource Group in Azure](https://github.com/wmarchand/create_resource_group)
 - <b>Virtual Machines</b>
-  - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/wmarchand/create_resource_group)
+  - [Azure: Create a Virtual Machine and Deploy a Web Server](https://github.com/wmarchand/VM_WebServer)
  
  
  <!-- 
