@@ -30,9 +30,9 @@
 <h2>Certifications:</h2>
 
 CompTIA Security+: <br/>
-[<img src="https://i.imgur.com/u9A5Pnj.png" height="20%" width="20%"/>][sec]
-[<img src="https://i.imgur.com/RDQYw6s.png" height="20%" width="20%"/>][cc]
-[<img src="https://i.imgur.com/bNkVmpV.png" height="20%" width="20%"/>][google]
+[<img src="https://i.imgur.com/u9A5Pnj.png" height="10%" width="10%"/>][sec]
+[<img src="https://i.imgur.com/RDQYw6s.png" height="10%" width="10%"/>][cc]
+[<img src="https://i.imgur.com/bNkVmpV.png" height="10%" width="10%"/>][google]
 
 [sec]: https://www.credly.com/badges/7381f2c3-f238-476e-a5a2-40bb919a9a47?source=linked_in_profile
 [cc]: https://www.credly.com/badges/ef067dcc-c56f-4ca3-bbb6-b89844177975
