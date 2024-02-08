@@ -31,12 +31,12 @@
 
 <h2>Certifications:</h2>
 
-[<img src="https://i.imgur.com/u9A5Pnj.png" height="10%" width="10%"/>][az-900]
+[<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="10%" width="10%"/>][az-900]
 [<img src="https://i.imgur.com/u9A5Pnj.png" height="10%" width="10%"/>][sec]
 [<img src="https://i.imgur.com/RDQYw6s.png" height="10%" width="10%"/>][cc]
 [<img src="https://i.imgur.com/bNkVmpV.png" height="10%" width="10%"/>][google]
 
-[az-900]: https://www.credly.com/badges/7381f2c3-f238-476e-a5a2-40bb919a9a47?source=linked_in_profile
+[az-900]: https://learn.microsoft.com/api/credentials/share/en-us/WilliamMarchand-5765/99F3129FC384325E?sharingId=53547A59B8F7F917
 [sec]: https://www.credly.com/badges/7381f2c3-f238-476e-a5a2-40bb919a9a47?source=linked_in_profile
 [cc]: https://www.credly.com/badges/ef067dcc-c56f-4ca3-bbb6-b89844177975
 [google]: https://www.credly.com/badges/b18faea0-f599-4664-abc8-336bb1c4b3f3/public_url
